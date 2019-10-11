@@ -12,7 +12,7 @@ class RandomWalk(object):
         self.x_values = [0]
         self.y_values = [0]
 
-    def get_step(self)
+    def get_step(self):
         """确定每次漫步的距离和方向"""
         direction = choice([1, -1])  # choice()随机选择其中一个值
         distance = choice(list(range(0, 5)))
@@ -31,8 +31,8 @@ class RandomWalk(object):
             # y_direction = choice([1, -1])
             # y_distance = choice([0, 1, 2, 3, 4])
             # y_step = y_direction * y_distance
-            x_step = get_step()
-            y_step = get_step()
+            x_step = self.get_step()
+            y_step = self.get_step()
 
             # 拒绝原地踏步
             if x_step == 0 and y_step == 0:
