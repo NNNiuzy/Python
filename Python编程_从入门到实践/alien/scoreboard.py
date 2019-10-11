@@ -71,4 +71,4 @@ class Scorebroad(object):
         self.screen.blit(self.high_score_image, self.high_score_rect)
         self.screen.blit(self.level_image, self.level_rect)
         # 绘制飞船
-        self.ships.draw(self.screen)
+        self.ships.draw(self.screen)#对编组调用draw()，pygame将绘制每艘飞船
