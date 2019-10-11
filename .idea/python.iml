@@ -5,7 +5,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Python编程_从入门到实践/.pytest_cache" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Python编程_从入门到实践" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Python编程_从入门到实践/alien" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Python编程_从入门到实践/matplotlib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python编程_从入门到实践/data_visualization" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python编程_从入门到实践/data_visualization/data" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
