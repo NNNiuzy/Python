@@ -7,8 +7,12 @@
       <sourceFolder url="file://$MODULE_DIR$/Python编程_从入门到实践/alien" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Python编程_从入门到实践/data_visualization" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Python编程_从入门到实践/data_visualization/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python编程_从入门到实践/Web" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python编程_从入门到实践/Web/learning_log" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python编程_从入门到实践/Web/learning_logs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python编程_从入门到实践/Web/learning_logs/migrations" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.6 (ll_env)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
